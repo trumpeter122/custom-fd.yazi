@@ -2,8 +2,6 @@
 
 Run `fd` searches with custom arguments.
 
-Verified on `Yazi 26.1.4 (41e57179 2026-01-13)`; might behave differently on other versions.
-
 ## Installation
 
 Clone this plugin into your Yazi plugins directory:
